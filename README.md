@@ -24,7 +24,7 @@ The book covers a wide range of topics, including:
 7. **Quantum Support Vector Classifiers (QSVC)** *(Code Available in Repo)*  
 8. **Variational Quantum Classifiers (VQC)** *(Code Available in Repo)*  
 9. **Promising Quantum Approaches (QUBO-based SVM, Reservoir Computing, etc.)** *(Code Available in Repo)*  
-10. **End-to-End Implementation of Quantum ML Solutions**  
+10. **End-to-End Implementation of Quantum ML Solutions** *(Code Available in Repo)*  
 
 For more details, **the full book is available on [Amazon](https://www.amazon.com)**.
 
