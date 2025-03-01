@@ -285,7 +285,8 @@ https://www.mdpi.com/1099-4300/25/6/860
 
 ## Chapter 7
 
-- **Kernel methods in machine learning: https://arxiv.org/abs/math/0701907 
+- **Kernel methods in machine learning:**
+ https://arxiv.org/abs/math/0701907 
 
 - **Quantum-enhanced Versus Classical Support Vector Machine: An Application to Stock Index Forecasting:**
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4630419 
@@ -470,4 +471,4 @@ https://www.jstatsoft.org/article/view/v039i11
 
 ### Chapter Figures
 
-We generated Figures 25-31 from the code snippets discussed here, and the full codes are in Jupyter notebooks in the book's GitHub repository Chapter 10.
+We generated Figures 25-31 from the code snippets discussed in the manuscript, and the full codes are in Jupyter notebooks in the book's GitHub repository Chapter 10.
