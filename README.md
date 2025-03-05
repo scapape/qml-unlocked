@@ -26,7 +26,7 @@ The book covers a wide range of topics, including:
 9. **Promising Quantum Approaches (QUBO-based SVM, Reservoir Computing, etc.)** *(Code Available in Repo)*  
 10. **End-to-End Implementation of Quantum ML Solutions** *(Code Available in Repo)*  
 
-For more details, **the full book is available on [Amazon](https://www.amazon.com)**.
+For more details, **the full book is available on [Amazon](https://a.co/d/bKaq9iq)**.
 
 ---
 
